@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="78bd0fd6-12a4-4e12-b279-9b63568486e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/functional_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/functional_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suplerlists/lists/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suplerlists/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/suplerlists/functional_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+            <state relative-caret-position="969">
+              <caret line="54" column="81" selection-start-line="54" selection-start-column="81" selection-end-line="54" selection-end-column="81" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -35,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/suplerlists/lists/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="171">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -44,10 +45,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/suplerlists/lists/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
+            <state relative-caret-position="779">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
@@ -57,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/suplerlists/lists/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -65,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/suplerlists/lists/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="76">
               <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -103,18 +113,19 @@
         <option value="$PROJECT_DIR$/day01_test/test/test01.py" />
         <option value="$PROJECT_DIR$/suplerlists/suplerlists/urls.py" />
         <option value="$PROJECT_DIR$/suplerlists/suplerlists/settings.py" />
-        <option value="$PROJECT_DIR$/suplerlists/lists/tests.py" />
         <option value="$PROJECT_DIR$/suplerlists/lists/views.py" />
         <option value="$PROJECT_DIR$/suplerlists/lists/templates/home.html" />
         <option value="$PROJECT_DIR$/suplerlists/functional_tests.py" />
+        <option value="$PROJECT_DIR$/suplerlists/lists/tests.py" />
+        <option value="$PROJECT_DIR$/suplerlists/lists/models.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="624" />
-    <option name="y" value="41" />
+    <option name="x" value="-10" />
+    <option name="y" value="62" />
     <option name="width" value="910" />
-    <option name="height" value="733" />
+    <option name="height" value="707" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -283,7 +294,8 @@
       <workItem from="1617340301723" duration="4030000" />
       <workItem from="1617944687148" duration="4174000" />
       <workItem from="1618549626046" duration="5143000" />
-      <workItem from="1619154555442" duration="4733000" />
+      <workItem from="1619154555442" duration="5238000" />
+      <workItem from="1620364102264" duration="746000" />
     </task>
     <servers />
   </component>
@@ -299,18 +311,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22115000" />
+    <option name="totallyTimeSpent" value="23366000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="624" y="41" width="910" height="733" extended-state="0" />
-    <editor active="true" />
+    <frame x="2" y="35" width="910" height="707" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33857316" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2517647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27045074" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27045074" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -319,7 +330,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.14872798" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.40139616" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -368,26 +379,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/suplerlists/manage.py">
+    <entry file="file://$PROJECT_DIR$/suplerlists/functional_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/suplerlists/lists/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="969">
+          <caret line="54" column="81" selection-start-line="54" selection-start-column="81" selection-end-line="54" selection-end-column="81" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
+        <state relative-caret-position="779">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
@@ -395,27 +399,41 @@
     <entry file="file://$PROJECT_DIR$/suplerlists/lists/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suplerlists/lists/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suplerlists/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/suplerlists/lists/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="171">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/suplerlists/functional_tests.py">
+    <entry file="file://$PROJECT_DIR$/suplerlists/lists/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
