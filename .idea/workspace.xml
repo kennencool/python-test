@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78bd0fd6-12a4-4e12-b279-9b63568486e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/suplerlists/lists/templates/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suplerlists/lists/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suplerlists/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suplerlists/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suplerlists/suplerlists/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/suplerlists/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,22 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/suplerlists/functional_tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/suplerlists/lists/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+            <state relative-caret-position="50">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -47,28 +37,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/suplerlists/lists/models.py">
+        <entry file="file://$PROJECT_DIR$/suplerlists/functional_tests/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="-558">
+              <caret line="78" column="25" lean-forward="true" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/settings.py">
+        <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="80" column="5" lean-forward="true" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/suplerlists/lists/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="183">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#645#677#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,20 +60,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/suplerlists/lists/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/suplerlists/manage.py">
+        <entry file="file://$PROJECT_DIR$/suplerlists/lists/templates/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="228">
+              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/suplerlists/lists/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -112,21 +102,23 @@
       <list>
         <option value="$PROJECT_DIR$/day01_test/__init__.py" />
         <option value="$PROJECT_DIR$/day01_test/test/test01.py" />
-        <option value="$PROJECT_DIR$/suplerlists/suplerlists/urls.py" />
         <option value="$PROJECT_DIR$/suplerlists/suplerlists/settings.py" />
         <option value="$PROJECT_DIR$/suplerlists/functional_tests.py" />
         <option value="$PROJECT_DIR$/suplerlists/lists/models.py" />
-        <option value="$PROJECT_DIR$/suplerlists/lists/tests.py" />
+        <option value="$PROJECT_DIR$/suplerlists/functional_tests/tests.py" />
+        <option value="$PROJECT_DIR$/suplerlists/suplerlists/urls.py" />
+        <option value="$PROJECT_DIR$/suplerlists/lists/templates/list.html" />
         <option value="$PROJECT_DIR$/suplerlists/lists/views.py" />
         <option value="$PROJECT_DIR$/suplerlists/lists/templates/home.html" />
+        <option value="$PROJECT_DIR$/suplerlists/lists/tests.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="7" />
-    <option name="y" value="9" />
-    <option name="width" value="632" />
-    <option name="height" value="717" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="540" />
+    <option name="y" value="81" />
+    <option name="width" value="861" />
+    <option name="height" value="710" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -136,6 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,7 +145,20 @@
               <item name="python-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-test" type="462c0819:PsiDirectoryNode" />
               <item name="suplerlists" type="462c0819:PsiDirectoryNode" />
+              <item name="functional_tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-test" type="462c0819:PsiDirectoryNode" />
+              <item name="suplerlists" type="462c0819:PsiDirectoryNode" />
               <item name="lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-test" type="462c0819:PsiDirectoryNode" />
+              <item name="suplerlists" type="462c0819:PsiDirectoryNode" />
+              <item name="lists" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-test" type="b2602c69:ProjectViewProjectNode" />
@@ -164,13 +170,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-learn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
@@ -296,7 +301,10 @@
       <workItem from="1617944687148" duration="4174000" />
       <workItem from="1618549626046" duration="5143000" />
       <workItem from="1619154555442" duration="5238000" />
-      <workItem from="1620364102264" duration="2801000" />
+      <workItem from="1620364102264" duration="4260000" />
+      <workItem from="1620968802462" duration="5480000" />
+      <workItem from="1621470485241" duration="27000" />
+      <workItem from="1622172468641" duration="2501000" />
     </task>
     <servers />
   </component>
@@ -312,18 +320,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25421000" />
+    <option name="totallyTimeSpent" value="34888000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-36" y="18" width="970" height="717" extended-state="0" />
-    <editor active="true" />
+    <frame x="540" y="81" width="861" height="710" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23516484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26092383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36535162" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29331046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,8 +339,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.39794168" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.45833334" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.328125" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -341,12 +348,12 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33857316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27715355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27201566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29331046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -355,7 +362,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.14872798" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41447368" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -371,13 +378,11 @@
     <entry file="file://$PROJECT_DIR$/day01_test/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/urls.py">
+    <entry file="file://$PROJECT_DIR$/suplerlists/functional_tests.py" />
+    <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="1520">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -388,53 +393,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/suplerlists/functional_tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/suplerlists/lists/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="6" />
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/suplerlists/lists/tests.py">
+    <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#645#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suplerlists/lists/templates/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/suplerlists/lists/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/suplerlists/suplerlists/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="80" column="5" lean-forward="true" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/suplerlists/lists/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/suplerlists/functional_tests.py">
+    <entry file="file://$PROJECT_DIR$/suplerlists/functional_tests/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        <state relative-caret-position="-558">
+          <caret line="78" column="25" lean-forward="true" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suplerlists/lists/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suplerlists/lists/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
