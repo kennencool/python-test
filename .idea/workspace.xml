@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78bd0fd6-12a4-4e12-b279-9b63568486e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/suplerlists/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,8 +132,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="494" />
-    <option name="y" value="38" />
+    <option name="x" value="410" />
+    <option name="y" value="42" />
     <option name="width" value="861" />
     <option name="height" value="704" />
   </component>
@@ -164,7 +165,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MSHD" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -298,7 +299,7 @@
       <workItem from="1622425393176" duration="19000" />
       <workItem from="1622785765436" duration="3005000" />
       <workItem from="1622977410573" duration="66000" />
-      <workItem from="1623845521695" duration="5074000" />
+      <workItem from="1623845521695" duration="5765000" />
     </task>
     <servers />
   </component>
@@ -314,10 +315,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50275000" />
+    <option name="totallyTimeSpent" value="50966000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="494" y="38" width="861" height="704" extended-state="0" />
+    <frame x="679" y="42" width="861" height="704" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31460676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
